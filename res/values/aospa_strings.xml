@@ -197,4 +197,7 @@
     <!-- SecurityHub -->
     <string name="config_alternative_advanced_security_category_key"></string>
 
+    <!-- Separate ringtone/notification volume -->
+    <string name="volume_separate_notification_title">Separate ring and notification volume</string>
+
 </resources>
